@@ -1,0 +1,51 @@
+body
+{
+    background-image: url("images/wof.jpg");
+}
+
+
+#nameField
+{
+    color: red;
+}
+
+#score
+{
+    
+}
+
+#blanks
+{
+    font-size: 100px;
+}
+
+#pictures
+{
+    
+}
+
+#guessedboas
+{
+    
+}
+
+#swaglag
+{
+    margin-top: -150px;
+}
+
+#failure
+{
+    
+}
+
+#why
+{
+    color: red;
+    
+}
+
+#tho
+{
+    color: red;
+}
